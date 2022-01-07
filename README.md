@@ -1,2 +1,2 @@
-# gpc_public
-The purpose of this repository is to manage the public wiki pages for the GPC network
+# gpc_commons
+The purpose of this repository is to manage the common resources and wiki pages for the GPC network which are publicly available
